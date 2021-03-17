@@ -53,7 +53,7 @@
 				</property>
 				<property>
 					<name>decimal</name>
-					<description>Description</description>
+					<description>Desfsdfdcription</description>
 					<datatype>DECIMAL</datatype>
 					<widgetType>DECIMAL_FIELD</widgetType>
 					<value>1.1</value>
