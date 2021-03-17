@@ -24,7 +24,7 @@
                                 </extractorInfo>
                                 <processorInfo ruleType="message">
                                     <ruleProperties type="com.fnfr.svt.execution.builtin.processors.MessageProcessorPropertyGroup" severity="OK">
-                                        <message> Oky doky</message>
+                                        <message> Oky adadoky</message>
                                         <tag sub="false" defaultValue=""/>
                                     </ruleProperties>
                                 </processorInfo>
